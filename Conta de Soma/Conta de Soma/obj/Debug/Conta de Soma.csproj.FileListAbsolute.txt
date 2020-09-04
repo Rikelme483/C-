@@ -1,0 +1,16 @@
+C:\Users\Rikelme\Desktop\Conta de Soma\Conta de Soma\obj\Debug\Conta de Soma.csprojResolveAssemblyReference.cache
+C:\Users\Rikelme\Desktop\Conta de Soma\Conta de Soma\obj\Debug\Conta_de_Soma.MainForm.resources
+C:\Users\Rikelme\Desktop\Conta de Soma\Conta de Soma\obj\Debug\Conta de Soma.csproj.GenerateResource.Cache
+C:\Users\Rikelme\Desktop\Conta de Soma\Conta de Soma\bin\Debug\Conta de Soma.exe.config
+C:\Users\Rikelme\Desktop\Conta de Soma\Conta de Soma\bin\Debug\Conta de Soma.exe
+C:\Users\Rikelme\Desktop\Conta de Soma\Conta de Soma\bin\Debug\Conta de Soma.pdb
+C:\Users\Rikelme\Desktop\Conta de Soma\Conta de Soma\obj\Debug\Conta de Soma.exe
+C:\Users\Rikelme\Desktop\Conta de Soma\Conta de Soma\obj\Debug\Conta de Soma.pdb
+C:\Users\Rikelme\Desktop\Windows Form\Conta de Soma\Conta de Soma\bin\Debug\Conta de Soma.exe.config
+C:\Users\Rikelme\Desktop\Windows Form\Conta de Soma\Conta de Soma\bin\Debug\Conta de Soma.exe
+C:\Users\Rikelme\Desktop\Windows Form\Conta de Soma\Conta de Soma\bin\Debug\Conta de Soma.pdb
+C:\Users\Rikelme\Desktop\Windows Form\Conta de Soma\Conta de Soma\obj\Debug\Conta de Soma.csprojResolveAssemblyReference.cache
+C:\Users\Rikelme\Desktop\Windows Form\Conta de Soma\Conta de Soma\obj\Debug\Conta_de_Soma.MainForm.resources
+C:\Users\Rikelme\Desktop\Windows Form\Conta de Soma\Conta de Soma\obj\Debug\Conta de Soma.csproj.GenerateResource.Cache
+C:\Users\Rikelme\Desktop\Windows Form\Conta de Soma\Conta de Soma\obj\Debug\Conta de Soma.exe
+C:\Users\Rikelme\Desktop\Windows Form\Conta de Soma\Conta de Soma\obj\Debug\Conta de Soma.pdb

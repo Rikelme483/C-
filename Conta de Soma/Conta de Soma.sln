@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 5.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conta de Soma", "Conta de Soma\Conta de Soma.csproj", "{B2DDB1F2-D339-407C-A8C5-58E40654B434}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculadora", "..\..\Calculadora\Calculadora.csproj", "{237D7450-1DA8-47CA-B1E2-248BDA7CB19D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2DDB1F2-D339-407C-A8C5-58E40654B434}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2DDB1F2-D339-407C-A8C5-58E40654B434}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2DDB1F2-D339-407C-A8C5-58E40654B434}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2DDB1F2-D339-407C-A8C5-58E40654B434}.Release|Any CPU.Build.0 = Release|Any CPU
+		{237D7450-1DA8-47CA-B1E2-248BDA7CB19D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{237D7450-1DA8-47CA-B1E2-248BDA7CB19D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{237D7450-1DA8-47CA-B1E2-248BDA7CB19D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{237D7450-1DA8-47CA-B1E2-248BDA7CB19D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

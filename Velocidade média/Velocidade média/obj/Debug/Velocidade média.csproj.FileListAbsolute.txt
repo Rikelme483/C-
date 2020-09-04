@@ -1,0 +1,16 @@
+C:\Users\Rikelme\Desktop\Velocidade média\Velocidade média\bin\Debug\Velocidade média.exe.config
+C:\Users\Rikelme\Desktop\Velocidade média\Velocidade média\bin\Debug\Velocidade média.exe
+C:\Users\Rikelme\Desktop\Velocidade média\Velocidade média\bin\Debug\Velocidade média.pdb
+C:\Users\Rikelme\Desktop\Velocidade média\Velocidade média\obj\Debug\Velocidade média.csprojResolveAssemblyReference.cache
+C:\Users\Rikelme\Desktop\Velocidade média\Velocidade média\obj\Debug\Velocidade_média.MainForm.resources
+C:\Users\Rikelme\Desktop\Velocidade média\Velocidade média\obj\Debug\Velocidade média.csproj.GenerateResource.Cache
+C:\Users\Rikelme\Desktop\Velocidade média\Velocidade média\obj\Debug\Velocidade média.exe
+C:\Users\Rikelme\Desktop\Velocidade média\Velocidade média\obj\Debug\Velocidade média.pdb
+C:\Users\Rikelme\Desktop\Windows Form\Velocidade média\Velocidade média\bin\Debug\Velocidade média.exe.config
+C:\Users\Rikelme\Desktop\Windows Form\Velocidade média\Velocidade média\bin\Debug\Velocidade média.exe
+C:\Users\Rikelme\Desktop\Windows Form\Velocidade média\Velocidade média\bin\Debug\Velocidade média.pdb
+C:\Users\Rikelme\Desktop\Windows Form\Velocidade média\Velocidade média\obj\Debug\Velocidade média.csprojResolveAssemblyReference.cache
+C:\Users\Rikelme\Desktop\Windows Form\Velocidade média\Velocidade média\obj\Debug\Velocidade_média.MainForm.resources
+C:\Users\Rikelme\Desktop\Windows Form\Velocidade média\Velocidade média\obj\Debug\Velocidade média.csproj.GenerateResource.Cache
+C:\Users\Rikelme\Desktop\Windows Form\Velocidade média\Velocidade média\obj\Debug\Velocidade média.exe
+C:\Users\Rikelme\Desktop\Windows Form\Velocidade média\Velocidade média\obj\Debug\Velocidade média.pdb

@@ -1,0 +1,16 @@
+C:\Users\Rikelme\Desktop\ListaFuncionários\ListaFuncionários\bin\Debug\ListaFuncionários.exe.config
+C:\Users\Rikelme\Desktop\ListaFuncionários\ListaFuncionários\bin\Debug\ListaFuncionários.exe
+C:\Users\Rikelme\Desktop\ListaFuncionários\ListaFuncionários\bin\Debug\ListaFuncionários.pdb
+C:\Users\Rikelme\Desktop\ListaFuncionários\ListaFuncionários\obj\Debug\ListaFuncionários.csprojResolveAssemblyReference.cache
+C:\Users\Rikelme\Desktop\ListaFuncionários\ListaFuncionários\obj\Debug\ListaFuncionários.MainForm.resources
+C:\Users\Rikelme\Desktop\ListaFuncionários\ListaFuncionários\obj\Debug\ListaFuncionários.csproj.GenerateResource.Cache
+C:\Users\Rikelme\Desktop\ListaFuncionários\ListaFuncionários\obj\Debug\ListaFuncionários.exe
+C:\Users\Rikelme\Desktop\ListaFuncionários\ListaFuncionários\obj\Debug\ListaFuncionários.pdb
+C:\Users\Rikelme\Desktop\Windows Form\ListaFuncionários\ListaFuncionários\bin\Debug\ListaFuncionários.exe.config
+C:\Users\Rikelme\Desktop\Windows Form\ListaFuncionários\ListaFuncionários\bin\Debug\ListaFuncionários.exe
+C:\Users\Rikelme\Desktop\Windows Form\ListaFuncionários\ListaFuncionários\bin\Debug\ListaFuncionários.pdb
+C:\Users\Rikelme\Desktop\Windows Form\ListaFuncionários\ListaFuncionários\obj\Debug\ListaFuncionários.csprojResolveAssemblyReference.cache
+C:\Users\Rikelme\Desktop\Windows Form\ListaFuncionários\ListaFuncionários\obj\Debug\ListaFuncionários.MainForm.resources
+C:\Users\Rikelme\Desktop\Windows Form\ListaFuncionários\ListaFuncionários\obj\Debug\ListaFuncionários.csproj.GenerateResource.Cache
+C:\Users\Rikelme\Desktop\Windows Form\ListaFuncionários\ListaFuncionários\obj\Debug\ListaFuncionários.exe
+C:\Users\Rikelme\Desktop\Windows Form\ListaFuncionários\ListaFuncionários\obj\Debug\ListaFuncionários.pdb

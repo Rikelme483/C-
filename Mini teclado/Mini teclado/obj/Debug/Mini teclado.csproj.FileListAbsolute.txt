@@ -1,0 +1,16 @@
+C:\Users\Rikelme\Desktop\Mini teclado\Mini teclado\bin\Debug\Mini teclado.exe.config
+C:\Users\Rikelme\Desktop\Mini teclado\Mini teclado\bin\Debug\Mini teclado.exe
+C:\Users\Rikelme\Desktop\Mini teclado\Mini teclado\bin\Debug\Mini teclado.pdb
+C:\Users\Rikelme\Desktop\Mini teclado\Mini teclado\obj\Debug\Mini teclado.csprojResolveAssemblyReference.cache
+C:\Users\Rikelme\Desktop\Mini teclado\Mini teclado\obj\Debug\Mini_teclado.MainForm.resources
+C:\Users\Rikelme\Desktop\Mini teclado\Mini teclado\obj\Debug\Mini teclado.csproj.GenerateResource.Cache
+C:\Users\Rikelme\Desktop\Mini teclado\Mini teclado\obj\Debug\Mini teclado.exe
+C:\Users\Rikelme\Desktop\Mini teclado\Mini teclado\obj\Debug\Mini teclado.pdb
+C:\Users\Rikelme\Desktop\Windows Form\Mini teclado\Mini teclado\bin\Debug\Mini teclado.exe.config
+C:\Users\Rikelme\Desktop\Windows Form\Mini teclado\Mini teclado\bin\Debug\Mini teclado.exe
+C:\Users\Rikelme\Desktop\Windows Form\Mini teclado\Mini teclado\bin\Debug\Mini teclado.pdb
+C:\Users\Rikelme\Desktop\Windows Form\Mini teclado\Mini teclado\obj\Debug\Mini teclado.csprojResolveAssemblyReference.cache
+C:\Users\Rikelme\Desktop\Windows Form\Mini teclado\Mini teclado\obj\Debug\Mini_teclado.MainForm.resources
+C:\Users\Rikelme\Desktop\Windows Form\Mini teclado\Mini teclado\obj\Debug\Mini teclado.csproj.GenerateResource.Cache
+C:\Users\Rikelme\Desktop\Windows Form\Mini teclado\Mini teclado\obj\Debug\Mini teclado.exe
+C:\Users\Rikelme\Desktop\Windows Form\Mini teclado\Mini teclado\obj\Debug\Mini teclado.pdb

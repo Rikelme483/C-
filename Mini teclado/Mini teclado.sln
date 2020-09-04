@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 5.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mini teclado", "Mini teclado\Mini teclado.csproj", "{BF2B4152-CEA2-42D3-A686-D5991A6191A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF2B4152-CEA2-42D3-A686-D5991A6191A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF2B4152-CEA2-42D3-A686-D5991A6191A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF2B4152-CEA2-42D3-A686-D5991A6191A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF2B4152-CEA2-42D3-A686-D5991A6191A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

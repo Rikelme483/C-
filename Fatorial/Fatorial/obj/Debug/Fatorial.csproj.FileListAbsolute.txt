@@ -1,0 +1,16 @@
+C:\Users\Rikelme\Desktop\Fatorial\Fatorial\obj\Debug\Fatorial.csprojResolveAssemblyReference.cache
+C:\Users\Rikelme\Desktop\Fatorial\Fatorial\obj\Debug\Fatorial.MainForm.resources
+C:\Users\Rikelme\Desktop\Fatorial\Fatorial\obj\Debug\Fatorial.csproj.GenerateResource.Cache
+C:\Users\Rikelme\Desktop\Fatorial\Fatorial\bin\Debug\Fatorial.exe.config
+C:\Users\Rikelme\Desktop\Fatorial\Fatorial\bin\Debug\Fatorial.exe
+C:\Users\Rikelme\Desktop\Fatorial\Fatorial\bin\Debug\Fatorial.pdb
+C:\Users\Rikelme\Desktop\Fatorial\Fatorial\obj\Debug\Fatorial.exe
+C:\Users\Rikelme\Desktop\Fatorial\Fatorial\obj\Debug\Fatorial.pdb
+C:\Users\Rikelme\Desktop\Windows Form\Fatorial\Fatorial\bin\Debug\Fatorial.exe.config
+C:\Users\Rikelme\Desktop\Windows Form\Fatorial\Fatorial\bin\Debug\Fatorial.exe
+C:\Users\Rikelme\Desktop\Windows Form\Fatorial\Fatorial\bin\Debug\Fatorial.pdb
+C:\Users\Rikelme\Desktop\Windows Form\Fatorial\Fatorial\obj\Debug\Fatorial.csprojResolveAssemblyReference.cache
+C:\Users\Rikelme\Desktop\Windows Form\Fatorial\Fatorial\obj\Debug\Fatorial.MainForm.resources
+C:\Users\Rikelme\Desktop\Windows Form\Fatorial\Fatorial\obj\Debug\Fatorial.csproj.GenerateResource.Cache
+C:\Users\Rikelme\Desktop\Windows Form\Fatorial\Fatorial\obj\Debug\Fatorial.exe
+C:\Users\Rikelme\Desktop\Windows Form\Fatorial\Fatorial\obj\Debug\Fatorial.pdb

@@ -1,0 +1,16 @@
+C:\Users\Rikelme\Desktop\Registro de empregados\Registro de empregados\obj\Debug\Registro de empregados.csprojResolveAssemblyReference.cache
+C:\Users\Rikelme\Desktop\Registro de empregados\Registro de empregados\obj\Debug\Registro_de_empregados.MainForm.resources
+C:\Users\Rikelme\Desktop\Registro de empregados\Registro de empregados\obj\Debug\Registro de empregados.csproj.GenerateResource.Cache
+C:\Users\Rikelme\Desktop\Registro de empregados\Registro de empregados\bin\Debug\Registro de empregados.exe.config
+C:\Users\Rikelme\Desktop\Registro de empregados\Registro de empregados\bin\Debug\Registro de empregados.exe
+C:\Users\Rikelme\Desktop\Registro de empregados\Registro de empregados\bin\Debug\Registro de empregados.pdb
+C:\Users\Rikelme\Desktop\Registro de empregados\Registro de empregados\obj\Debug\Registro de empregados.exe
+C:\Users\Rikelme\Desktop\Registro de empregados\Registro de empregados\obj\Debug\Registro de empregados.pdb
+C:\Users\Rikelme\Desktop\Windows Form\Registro de empregados\Registro de empregados\bin\Debug\Registro de empregados.exe.config
+C:\Users\Rikelme\Desktop\Windows Form\Registro de empregados\Registro de empregados\bin\Debug\Registro de empregados.exe
+C:\Users\Rikelme\Desktop\Windows Form\Registro de empregados\Registro de empregados\bin\Debug\Registro de empregados.pdb
+C:\Users\Rikelme\Desktop\Windows Form\Registro de empregados\Registro de empregados\obj\Debug\Registro de empregados.csprojResolveAssemblyReference.cache
+C:\Users\Rikelme\Desktop\Windows Form\Registro de empregados\Registro de empregados\obj\Debug\Registro_de_empregados.MainForm.resources
+C:\Users\Rikelme\Desktop\Windows Form\Registro de empregados\Registro de empregados\obj\Debug\Registro de empregados.csproj.GenerateResource.Cache
+C:\Users\Rikelme\Desktop\Windows Form\Registro de empregados\Registro de empregados\obj\Debug\Registro de empregados.exe
+C:\Users\Rikelme\Desktop\Windows Form\Registro de empregados\Registro de empregados\obj\Debug\Registro de empregados.pdb

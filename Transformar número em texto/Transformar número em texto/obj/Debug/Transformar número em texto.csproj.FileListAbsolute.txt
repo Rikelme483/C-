@@ -1,0 +1,8 @@
+C:\Users\Rikelme\Desktop\Transformar número em texto\Transformar número em texto\bin\Debug\Transformar número em texto.exe.config
+C:\Users\Rikelme\Desktop\Transformar número em texto\Transformar número em texto\bin\Debug\Transformar número em texto.exe
+C:\Users\Rikelme\Desktop\Transformar número em texto\Transformar número em texto\bin\Debug\Transformar número em texto.pdb
+C:\Users\Rikelme\Desktop\Transformar número em texto\Transformar número em texto\obj\Debug\Transformar número em texto.csprojResolveAssemblyReference.cache
+C:\Users\Rikelme\Desktop\Transformar número em texto\Transformar número em texto\obj\Debug\Transformar_número_em_texto.MainForm.resources
+C:\Users\Rikelme\Desktop\Transformar número em texto\Transformar número em texto\obj\Debug\Transformar número em texto.csproj.GenerateResource.Cache
+C:\Users\Rikelme\Desktop\Transformar número em texto\Transformar número em texto\obj\Debug\Transformar número em texto.exe
+C:\Users\Rikelme\Desktop\Transformar número em texto\Transformar número em texto\obj\Debug\Transformar número em texto.pdb

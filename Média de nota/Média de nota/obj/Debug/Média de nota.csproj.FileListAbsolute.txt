@@ -1,0 +1,16 @@
+C:\Users\Rikelme\Desktop\Média de nota\Média de nota\obj\Debug\Média de nota.csprojResolveAssemblyReference.cache
+C:\Users\Rikelme\Desktop\Média de nota\Média de nota\obj\Debug\Média_de_nota.MainForm.resources
+C:\Users\Rikelme\Desktop\Média de nota\Média de nota\obj\Debug\Média de nota.csproj.GenerateResource.Cache
+C:\Users\Rikelme\Desktop\Média de nota\Média de nota\bin\Debug\Média de nota.exe.config
+C:\Users\Rikelme\Desktop\Média de nota\Média de nota\bin\Debug\Média de nota.exe
+C:\Users\Rikelme\Desktop\Média de nota\Média de nota\bin\Debug\Média de nota.pdb
+C:\Users\Rikelme\Desktop\Média de nota\Média de nota\obj\Debug\Média de nota.exe
+C:\Users\Rikelme\Desktop\Média de nota\Média de nota\obj\Debug\Média de nota.pdb
+C:\Users\Rikelme\Desktop\Windows Form\Média de nota\Média de nota\bin\Debug\Média de nota.exe.config
+C:\Users\Rikelme\Desktop\Windows Form\Média de nota\Média de nota\bin\Debug\Média de nota.exe
+C:\Users\Rikelme\Desktop\Windows Form\Média de nota\Média de nota\bin\Debug\Média de nota.pdb
+C:\Users\Rikelme\Desktop\Windows Form\Média de nota\Média de nota\obj\Debug\Média de nota.csprojResolveAssemblyReference.cache
+C:\Users\Rikelme\Desktop\Windows Form\Média de nota\Média de nota\obj\Debug\Média_de_nota.MainForm.resources
+C:\Users\Rikelme\Desktop\Windows Form\Média de nota\Média de nota\obj\Debug\Média de nota.csproj.GenerateResource.Cache
+C:\Users\Rikelme\Desktop\Windows Form\Média de nota\Média de nota\obj\Debug\Média de nota.exe
+C:\Users\Rikelme\Desktop\Windows Form\Média de nota\Média de nota\obj\Debug\Média de nota.pdb
